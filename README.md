@@ -1,5 +1,5 @@
 # Oyunu İndir:
-# ---
+---
 # İlk Versyon :
 # İndirme Linki:
 # GameJolt İndirme Linki: https://gamejolt.com/games/IremHocaileMatematikDersi/1030025
