@@ -14,7 +14,7 @@
 # Çıkış Tarihi: 14 Kasım 2025.
 # OS/OS'LAR: Windows.
 ---
-# 1.0 (? MB) :
+# 1.0 (? MB/GB) :
 # İndirme Linki: Çıkışda Eklenecek.
 # Durum: Henüz Yayınlanmadı.
 # Çıkış Tarihi: 6 Aralık 2025.
