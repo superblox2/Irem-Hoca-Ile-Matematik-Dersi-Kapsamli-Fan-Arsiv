@@ -2,7 +2,7 @@
 # WinRAR Ve RAR Kurulumu:
 # .zip Ve .rar Dosyalarını Açmak İçin Windows'da WinRAR, Android'de İse RAR Programları Kullanılabilir. Oyunun Çalışması İçin WinRAR Ve RAR Programları Gereklidir.
 # WinRAR İndir: https://www.win-rar.com/
-# RAR İndir: https://share.google/ToryCfui7Wfn9rMDQ
+# RAR İndir: https://play.google.com/store/apps/details?id=com.rarlab.rar
 ---
 # Oyunu İndir:
 ---
