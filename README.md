@@ -14,13 +14,11 @@
 # Çıkış Tarihi: 14 Kasım 2025.
 # OS/OS'LAR: Windows.
 # YouTube Trailer: Yayınlanmadı.
-# YouTube Trailer 2: Yayınlanmadı.
 ---
-# 1.0 (? MB/GB) :
+# 1.0 (FİNAL SÜRÜM) (? MB) :
 # İndirme Linki: Çıkışda Eklenecek.
 # Durum: Henüz Yayınlanmadı.
-# Çıkış Tarihi: 6 Aralık 2025.
+# Çıkış Tarihi: Yarın.
 # OS/OS'lar: Windows, Android.
 # YouTube Trailer: https://youtu.be/Y5RXnEEwaJ0?si=IgLQ9WyMioXjmXgR
-# YouTube Trailer 2: Henüz Yayınlanmadı. Yayınlanması Halinde Link Eklenecektir.
 ---
