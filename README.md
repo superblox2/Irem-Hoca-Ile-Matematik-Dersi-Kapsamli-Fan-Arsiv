@@ -1,6 +1,6 @@
 ---
 # WinRAR Kurulumu:
-# .zip Ve .rar Dosyalarını Açmak İçin Windows'da WinRAR Kullanılabilir. Oyunun Windows'da Çalışması İçin WinRAR Programı Gereklidir.
+# .rar Dosyalarını Açmak İçin Windows'da WinRAR Kullanılabilir. Oyunun Windows'da Çalışması İçin WinRAR Programı Gereklidir.
 # WinRAR İndir: https://www.win-rar.com/
 ---
 # Oyunu İndir:
