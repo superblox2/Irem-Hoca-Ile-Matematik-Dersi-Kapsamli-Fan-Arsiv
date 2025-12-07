@@ -24,5 +24,5 @@
 # Çıkış Tarihi: 6 Aralık 2025.
 # OS/OS'lar: Windows, Android.
 # YouTube Trailer: https://youtu.be/Y5RXnEEwaJ0?si=IgLQ9WyMioXjmXgR
-⚠️ Bu sürüm finaldir. Oyuna daha güncelleme gelmeyecektir.
+# ⚠️ Bu sürüm finaldir. Oyuna daha güncelleme gelmeyecektir.
 ---
